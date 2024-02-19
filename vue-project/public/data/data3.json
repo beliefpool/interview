@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "id": 1,
+            "name": "Product 1",
+            "email": "john.doe@example.com",
+            "role": "admin"
+        },
+        {
+            "id": 2,
+            "name": "Product 1",
+            "email": "john.doe@example.com",
+            "role": "admin"
+        },
+        {
+            "id": 3,
+            "name": "Product 1",
+            "email": "john.doe@example.com",
+            "role": "admin"
+        },
+        {
+            "id": 4,
+            "name": "Product 1",
+            "email": "john.doe@example.com",
+            "role": "admin"
+        }
+    ]
+}

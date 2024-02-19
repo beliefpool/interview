@@ -1,0 +1,189 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "id": 1,
+            "name": "Product 1",
+            "description": "Description for Product 1",
+            "price": 99.99,
+            "category": {
+                "id": 1,
+                "name": "Electronics"
+            },
+            "images": [
+                "image1.jpg",
+                "image2.jpg"
+            ],
+            "reviews": [
+                {
+                    "id": 1,
+                    "rating": 3,
+                    "comment": "Great product!",
+                    "author": "John Doe"
+                },
+                {
+                    "id": 1,
+                    "rating": 4,
+                    "comment": "Great product!",
+                    "author": "John Doe"
+                },
+                {
+                    "id": 1,
+                    "rating": 3,
+                    "comment": "Great product!",
+                    "author": "John Doe"
+                },
+                {
+                    "id": 1,
+                    "rating": 4,
+                    "comment": "Great product!",
+                    "author": "John Doe"
+                },
+                {
+                    "id": 1,
+                    "rating": 4,
+                    "comment": "Great product!",
+                    "author": "John Doe"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Product 2",
+            "description": "Description for Product 1",
+            "price": 99.99,
+            "category": {
+                "id": 1,
+                "name": "Electronics"
+            },
+            "images": [
+                "image1.jpg",
+                "image2.jpg"
+            ],
+            "reviews": [
+                {
+                    "id": 1,
+                    "rating": 4,
+                    "comment": "Great product!",
+                    "author": "John Doe"
+                },
+                {
+                    "id": 1,
+                    "rating": 4,
+                    "comment": "Great product!",
+                    "author": "John Doe"
+                },
+                {
+                    "id": 1,
+                    "rating": 4,
+                    "comment": "Great product!",
+                    "author": "John Doe"
+                },
+                {
+                    "id": 1,
+                    "rating": 4,
+                    "comment": "Great product!",
+                    "author": "John Doe"
+                },
+                {
+                    "id": 1,
+                    "rating": 4,
+                    "comment": "Great product!",
+                    "author": "John Doe"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Product 3",
+            "description": "Description for Product 1",
+            "price": 99.99,
+            "category": {
+                "id": 1,
+                "name": "Electronics"
+            },
+            "images": [
+                "image1.jpg",
+                "image2.jpg"
+            ],
+            "reviews": [
+                {
+                    "id": 1,
+                    "rating": 4,
+                    "comment": "Great product!",
+                    "author": "John Doe"
+                },
+                {
+                    "id": 1,
+                    "rating": 4,
+                    "comment": "Great product!",
+                    "author": "John Doe"
+                },
+                {
+                    "id": 1,
+                    "rating": 4,
+                    "comment": "Great product!",
+                    "author": "John Doe"
+                },
+                {
+                    "id": 1,
+                    "rating": 4,
+                    "comment": "Great product!",
+                    "author": "John Doe"
+                },
+                {
+                    "id": 1,
+                    "rating": 4,
+                    "comment": "Great product!",
+                    "author": "John Doe"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Product 4",
+            "description": "Description for Product 1",
+            "price": 99.99,
+            "category": {
+                "id": 1,
+                "name": "Electronics"
+            },
+            "images": [
+                "image1.jpg",
+                "image2.jpg"
+            ],
+            "reviews": [
+                {
+                    "id": 1,
+                    "rating": 4,
+                    "comment": "Great product!",
+                    "author": "John Doe"
+                },
+                {
+                    "id": 1,
+                    "rating": 2.5,
+                    "comment": "Great product!",
+                    "author": "John Doe"
+                },
+                {
+                    "id": 1,
+                    "rating": 4,
+                    "comment": "Great product!",
+                    "author": "John Doe"
+                },
+                {
+                    "id": 1,
+                    "rating": 3.1,
+                    "comment": "Great product!",
+                    "author": "John Doe"
+                },
+                {
+                    "id": 1,
+                    "rating": 4,
+                    "comment": "Great product!",
+                    "author": "John Doe"
+                }
+            ]
+        }
+    ]
+}

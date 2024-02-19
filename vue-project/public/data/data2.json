@@ -1,0 +1,437 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "groupId": 1,
+            "groupName": "Admin Group",
+            "users": [
+                {
+                    "id": 1,
+                    "name": "John Doe",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                },
+                {
+                    "id": 2,
+                    "name": "John Doe2",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                },
+                {
+                    "id": 3,
+                    "name": "John Doe3",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                }
+            ]
+        },
+        {
+            "groupId": 2,
+            "groupName": "Editor Group",
+            "users": [
+                {
+                    "id": 1,
+                    "name": "John Doe",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                },
+                {
+                    "id": 2,
+                    "name": "John Doe2",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                },
+                {
+                    "id": 3,
+                    "name": "John Doe3",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                }
+            ]
+        },
+        {
+            "groupId": 1,
+            "groupName": "Admin Group",
+            "users": [
+                {
+                    "id": 1,
+                    "name": "John Doe",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                },
+                {
+                    "id": 2,
+                    "name": "John Doe2",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                },
+                {
+                    "id": 3,
+                    "name": "John Doe3",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                }
+            ]
+        },
+        {
+            "groupId": 2,
+            "groupName": "Editor Group",
+            "users": [
+                {
+                    "id": 1,
+                    "name": "John Doe",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                },
+                {
+                    "id": 2,
+                    "name": "John Doe2",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                },
+                {
+                    "id": 3,
+                    "name": "John Doe3",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                }
+            ]
+        },
+        {
+            "groupId": 1,
+            "groupName": "Admin Group",
+            "users": [
+                {
+                    "id": 1,
+                    "name": "John Doe",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                },
+                {
+                    "id": 2,
+                    "name": "John Doe2",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                },
+                {
+                    "id": 3,
+                    "name": "John Doe3",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                }
+            ]
+        },
+        {
+            "groupId": 2,
+            "groupName": "Editor Group",
+            "users": [
+                {
+                    "id": 1,
+                    "name": "John Doe",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                },
+                {
+                    "id": 2,
+                    "name": "John Doe2",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                },
+                {
+                    "id": 3,
+                    "name": "John Doe3",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                }
+            ]
+        },
+        {
+            "groupId": 1,
+            "groupName": "Admin Group",
+            "users": [
+                {
+                    "id": 1,
+                    "name": "John Doe",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                },
+                {
+                    "id": 2,
+                    "name": "John Doe2",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                },
+                {
+                    "id": 3,
+                    "name": "John Doe3",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                }
+            ]
+        },
+        {
+            "groupId": 2,
+            "groupName": "Editor Group",
+            "users": [
+                {
+                    "id": 1,
+                    "name": "John Doe",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                },
+                {
+                    "id": 2,
+                    "name": "John Doe2",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                },
+                {
+                    "id": 3,
+                    "name": "John Doe3",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                }
+            ]
+        },
+        {
+            "groupId": 1,
+            "groupName": "Admin Group",
+            "users": [
+                {
+                    "id": 1,
+                    "name": "John Doe",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                },
+                {
+                    "id": 2,
+                    "name": "John Doe2",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                },
+                {
+                    "id": 3,
+                    "name": "John Doe3",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                }
+            ]
+        },
+        {
+            "groupId": 2,
+            "groupName": "Editor Group",
+            "users": [
+                {
+                    "id": 1,
+                    "name": "John Doe",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                },
+                {
+                    "id": 2,
+                    "name": "John Doe2",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                },
+                {
+                    "id": 3,
+                    "name": "John Doe3",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                }
+            ]
+        },
+        {
+            "groupId": 1,
+            "groupName": "Admin Group",
+            "users": [
+                {
+                    "id": 1,
+                    "name": "John Doe",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                },
+                {
+                    "id": 2,
+                    "name": "John Doe2",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                },
+                {
+                    "id": 3,
+                    "name": "John Doe3",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                }
+            ]
+        },
+        {
+            "groupId": 2,
+            "groupName": "Editor Group",
+            "users": [
+                {
+                    "id": 1,
+                    "name": "John Doe",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                },
+                {
+                    "id": 2,
+                    "name": "John Doe2",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                },
+                {
+                    "id": 3,
+                    "name": "John Doe3",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                }
+            ]
+        },
+        {
+            "groupId": 1,
+            "groupName": "Admin Group",
+            "users": [
+                {
+                    "id": 1,
+                    "name": "John Doe",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                },
+                {
+                    "id": 2,
+                    "name": "John Doe2",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                },
+                {
+                    "id": 3,
+                    "name": "John Doe3",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                }
+            ]
+        },
+        {
+            "groupId": 2,
+            "groupName": "Editor Group",
+            "users": [
+                {
+                    "id": 1,
+                    "name": "John Doe",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                },
+                {
+                    "id": 2,
+                    "name": "John Doe2",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                },
+                {
+                    "id": 3,
+                    "name": "John Doe3",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                }
+            ]
+        },
+        {
+            "groupId": 1,
+            "groupName": "Admin Group",
+            "users": [
+                {
+                    "id": 1,
+                    "name": "John Doe",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                },
+                {
+                    "id": 2,
+                    "name": "John Doe2",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                },
+                {
+                    "id": 3,
+                    "name": "John Doe3",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                }
+            ]
+        },
+        {
+            "groupId": 2,
+            "groupName": "Editor Group",
+            "users": [
+                {
+                    "id": 1,
+                    "name": "John Doe",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                },
+                {
+                    "id": 2,
+                    "name": "John Doe2",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                },
+                {
+                    "id": 3,
+                    "name": "John Doe3",
+                    "email": "john.doe@example.com",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                }
+            ]
+        }
+    ]
+}
